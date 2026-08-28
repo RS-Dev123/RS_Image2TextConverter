@@ -1,0 +1,9 @@
+Hello World
+
+This is OCR
+your terminal should produce:
+
+EXTRACTED TEXT
+
+Hello World
+This is OCR

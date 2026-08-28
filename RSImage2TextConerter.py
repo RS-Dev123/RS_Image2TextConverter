@@ -16,6 +16,11 @@ try:
     print("\n========== EXTRACTED TEXT ==========\n")
     print(text)
 
+    with open("output.txt", "w", encoding="utf-8") as file:
+        file.write(text)
+
+    print("\nText saved to output.txt")
+
 except FileNotFoundError:
     print("Error: Image file not found.")
 
