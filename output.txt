@@ -1,9 +1,11 @@
-Hello World
+Nee Te TN ee
 
-This is OCR
+Hello World
+This 1s OCR
+
 your terminal should produce:
 
-EXTRACTED TEXT
+ee EXTRACTED TEXT eee.
 
 Hello World
-This is OCR
+This 1s OCR
